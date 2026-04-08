@@ -45,11 +45,11 @@ A Python program that generates strong and random passwords. The user specifies 
 3.Run the following commands:
 
 
-python todo_list.py
+      python todo_list.py
 
-python calculator.py
+      python calculator.py
 
-python password_generator.py
+      python password_generator.py
 
 
 🎓 𝙄𝙣𝙩𝙚𝙧𝙣𝙨𝙝𝙞𝙥
