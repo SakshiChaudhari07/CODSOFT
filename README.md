@@ -1,6 +1,6 @@
 # CODSOFT
 
-CodSoft Python Internship Projects
+•CodSoft Python Internship Projects
 
 This repository contains Python projects developed during the CodSoft Python Programming Internship.
 
@@ -31,7 +31,7 @@ A simple calculator program that performs basic arithmetic operations such as ad
 A Python program that generates strong and random passwords. The user specifies the desired password length, and the program generates a secure password using letters, numbers, and special characters.
 
 
-Technologies Used
+⚒️Technologies Used
 
 •Python
 
