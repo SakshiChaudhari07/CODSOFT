@@ -35,9 +35,7 @@ Technologies Used
 ▶ How to Run
 
 1.Install Python on your system.
-
 2.Download or clone this repository.
-
 3.Run the following commands:
 
 python todo_list.py
