@@ -6,6 +6,7 @@ This repository contains Python projects developed during the CodSoft Python Pro
 The purpose of these projects is to demonstrate fundamental Python programming concepts and practical implementations.
 
 📌 Projects Included
+
 •To-Do List Application
 •Calculator
 •Password Generator
@@ -22,6 +23,7 @@ A simple calculator program that performs basic arithmetic operations such as ad
 A Python program that generates strong and random passwords. The user specifies the desired password length, and the program generates a secure password using letters, numbers, and special characters.
 
 Technologies Used
+
 •Python
 
 ▶ How to Run
@@ -34,6 +36,7 @@ python calculator.py
 python password_generator.py
 
 🎓 Internship
+
 These projects were created as part of the CodSoft Python Programming Internship to practice and improve Python programming skills.
 
 👩‍💻 Author
